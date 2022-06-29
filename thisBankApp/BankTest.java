@@ -36,9 +36,7 @@ public class BankTest {
         if(cc3 == null)
             System.out.println("NULLLLLL");
 
-        CreditCard.cartType = "Sea";
-        BosBelesClass bosBelesClass = new BosBelesClass();
-        System.out.println(bosBelesClass);
+        
     }
 
     }
